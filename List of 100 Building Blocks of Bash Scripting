@@ -1,0 +1,100 @@
+Commands: The basic executable programs that perform specific tasks.
+Variables: Named storage locations that hold a value.
+Loops: Used to iterate over a series of values or commands, and perform repetitive tasks in a script.
+Functions: Named blocks of code that perform a specific task and can be called from anywhere in the script.
+Comments: Lines in a script that are ignored by the interpreter and used to provide information about the script or disable parts of the script temporarily.
+Conditional statements: Used to control the flow of a script based on whether a specific condition is true or false.
+I/O Redirection: Used to redirect input and output streams of commands.
+Pipes: Used to connect the output of one command as the input of another command.
+Command-line arguments: Parameters passed to a script when it is executed.
+Control structures: Used to control the flow of a script and execute specific parts of the code based on certain conditions.
+Arrays: Collections of data that can hold multiple values in a single variable.
+Arithmetic operations: Used to perform mathematical operations on variables and values.
+Exit statuses: Numeric values that indicate the success or failure of a command or script.
+Conditional expressions: Used to evaluate whether a specific condition is true or false.
+File operations: Commands that allow you to read, write, and manipulate files on the file system.
+Environment variables: Variables that hold information about the system environment, such as user name, hostname, and current working directory.
+Debugging tools: Commands that allow you to debug a Bash script, such as set -x and set -e.
+String manipulation: Commands that allow you to manipulate and extract strings from variables.
+Regular expressions: Patterns used to match and manipulate text.
+Here documents: A way of specifying a large block of text as input to a command.
+Wildcards: Special characters used to match and expand filenames or text patterns.
+Conditional branching: Used to execute different parts of a script based on specific conditions.
+Control operators: Used to combine multiple commands into a single expression or control the flow of a script.
+Aliases: Shortcuts for commonly used commands or command sequences.
+Subshells: Used to run a command or sequence of commands in a separate shell environment.
+Signals: Used to send messages to running processes or scripts to perform certain actions, such as terminating or pausing the process.
+Debugging output: Commands that allow you to output debug information to the console or a log file.
+Error handling: Commands and constructs used to handle errors and exceptions that occur during the execution of a script.
+Regular file operations: Commands that allow you to create, copy, move, and delete files and directories.
+User input: Commands that allow you to read user input from the console or a file.
+Exit and error codes: Used to determine the success or failure of a command or script, and to provide additional information about errors that occurred.
+Brace expansion: Used to generate a series of words or commands based on a pattern.
+Globbing: A form of wildcard expansion that matches filenames or directories based on a pattern.
+Command substitution: A way of capturing the output of a command and using it as input to another command or as a value for a variable.
+I/O descriptors: Numbers used to identify the standard input, output, and error streams of a command or script.
+Conditional execution: Used to execute a command or set of commands based on the success or failure of a previous command.
+Job control: Used to manage running processes and scripts, and to control their execution.
+Parameter expansion: Used to expand variables and perform various operations on them, such as substring extraction and length calculation.
+Brace expansion: Used to generate a series of words or commands based on a pattern.
+Advanced scripting techniques: Advanced scripting techniques such as signal handling, process substitution, and co-processes.
+Functions: Used to group commands into a reusable block of code that can be called from different parts of a script.
+Input/output redirection: Used to redirect input or output from/to files or other processes.
+Process substitution: A way of treating the output of a command as a file or input stream for another command.
+Exit trapping: Used to perform cleanup tasks or log information before a script exits.
+Regular expression matching and substitution: Commands that allow you to match and replace text based on regular expressions.
+Networking and web interactions: Commands that allow you to interact with remote systems and web services.
+User and group management: Commands that allow you to create, modify, and delete user and group accounts on the system.
+Job scheduling: Commands and tools used to schedule and automate tasks to run at specific times or intervals.
+Security and encryption: Commands and tools used to secure data and communications, and to perform encryption and decryption operations.
+Operating system interactions: Commands and constructs used to interact with the operating system, such as executing system commands or checking system information.
+Arrays: A data structure that allows you to store and manipulate multiple values in a single variable.
+Debugging and tracing: Commands and constructs used to debug and trace the execution of a script, such as the "set -x" command to enable tracing.
+Pattern matching: Commands and constructs used to match and manipulate text based on patterns, such as the "grep" command.
+Arithmetic operations: Commands and constructs used to perform arithmetic operations, such as the "let" command or the double-parentheses syntax.
+Script execution: Commands and constructs used to execute scripts and to control their behavior, such as the "source" command or the "exec" command.
+Text manipulation: Commands and constructs used to manipulate text, such as the "cut" command, the "sed" command, or the "awk" command.
+String operations: Commands and constructs used to perform operations on strings, such as concatenation, comparison, and substitution.
+Shell options: Options that can be set to modify the behavior of the shell, such as the "set" command or the "shopt" command.
+Script organization: Techniques for organizing and structuring scripts to make them more readable and maintainable, such as functions, comments, and indentation.
+Script deployment: Techniques for deploying scripts to multiple systems or users, such as packaging scripts as executables or creating installation scripts.
+Text processing: Commands and constructs used to process text data, such as sorting, filtering, and transforming data, such as the "sort" command or the "tr" command.
+Debugging tools: External tools that can be used to debug scripts, such as the GNU Debugger (GDB) or the Bash Debugger (Bashdb).
+Error handling: Techniques for handling errors and exceptions in scripts, such as the "trap" command to catch signals or the "if" statement to check for errors.
+Command line arguments: Techniques for passing arguments to scripts, such as the use of the "$1", "$2", etc. variables to access command line arguments.
+System administration: Commands and constructs used to manage system resources, such as disks, memory, and processes, such as the "df" command or the "ps" command.
+Regular expressions: A powerful language for pattern matching and text processing that is widely used in Bash scripting, supported by tools like "grep", "sed", "awk" and "perl".
+Debugging output: Techniques for printing debug information to the console, such as the "echo" command or the "printf" command.
+Permissions and ownership: Commands and constructs used to set and manage file and directory permissions and ownership, such as the "chmod" command or the "chown" command.
+Signals: The signals that can be sent to a running process, such as SIGINT to interrupt the process, SIGTERM to terminate the process, and SIGKILL to force the process to stop.
+Script optimization: Techniques for optimizing scripts to run faster and use less resources, such as minimizing the use of external commands or using efficient data structures like arrays.
+File handling: Commands and constructs used to manipulate files and directories, such as the "touch" command to create files or the "mkdir" command to create directories.
+Networking: Commands and constructs used to interact with network resources, such as the "ping" command to test network connectivity or the "curl" command to download files from the web.
+Environment variables: Variables that hold information about the environment in which a script is running, such as the "PATH" variable that contains a list of directories to search for executable files.
+Script security: Techniques for securing scripts and preventing unauthorized access or execution, such as using file permissions or using checksums to verify script integrity.
+Logging: Techniques for logging script output or events, such as redirecting output to a log file or using the "logger" command to write messages to the system log.
+Cron jobs: A system for scheduling recurring tasks, such as running a script at a specific time or interval, using the "crontab" command.
+Command substitution: A technique for executing a command and replacing it with its output, using the "$()" syntax or backticks.
+File input/output: Techniques for reading from and writing to files, such as using the "cat" command or the "sed" command to manipulate file contents.
+User input: Techniques for accepting user input during script execution, such as using the "read" command to read user input or using command line arguments.
+Inter-process communication: Techniques for communication between processes, such as pipes, FIFOs, and signals.
+String manipulation: Techniques for manipulating strings, such as using the "expr" command to extract substrings or the "sed" command to replace text.
+Conditional statements: Statements that allow you to execute code based on the truth value of a condition, such as the "if" statement or the "case" statement.
+Loops: Statements that allow you to execute code repeatedly, such as the "while" loop or the "for" loop.
+Functions: Blocks of code that can be reused multiple times within a script, such as the "function" keyword or the "()" syntax.
+Math calculations: Techniques for performing math calculations, such as using the "expr" command or the "bc" command.
+Associative arrays: Arrays that use keys instead of indices to store and retrieve data, supported in Bash version 4 and later.
+Regular expression matching: Techniques for matching patterns in strings using regular expressions, such as the "=~" operator or the "grep" command.
+Process management: Techniques for managing processes, such as the "ps" command to list running processes or the "kill" command to send signals to processes.
+Redirection and pipes: Techniques for redirecting input and output streams, such as using the ">" operator to redirect output to a file or using the "|" operator to pipe output to another command.
+Signals handling: Techniques for handling signals sent to a script, such as the "trap" command to catch and handle signals.
+Debugging: Techniques for debugging scripts, such as using the "set -x" command to enable debug mode or using the "echo" command to print debug information.
+Error handling: Techniques for handling errors and exceptions in scripts, such as using the "trap" command to catch and handle errors or using the "set -e" command to exit immediately on errors.
+Regular expression substitution: Techniques for replacing patterns in strings using regular expressions, such as the "sed" command or the "awk" command.
+Command line arguments: Techniques for passing arguments to a script from the command line, such as using the "$1", "$2", etc. syntax to access positional parameters or using the "getopts" command to handle options.
+Debugging and profiling tools: Tools for debugging and profiling scripts, such as the "strace" command to trace system calls or the "time" command to measure script execution time.
+Internationalization: Techniques for supporting multiple languages and locales in scripts, such as using the "gettext" command to handle translations or using the "locale" command to set locale-specific settings.
+Arrays: Techniques for working with arrays, such as using the "declare" command to declare an array or using the "${array[@]}" syntax to expand an array.
+Here documents: A technique for embedding multi-line text in a script, using the "<<EOF" syntax to begin a here document.
+Exit codes: Techniques for setting and checking the exit code of a script, such as using the "exit" command to set the exit code or using the "$?" variable to check the exit code.
+Regular expression matching and substitution using the sed command: Advanced techniques for using the sed command to perform regular expression matching and substitution in strings, such as using back-references and anchors.
